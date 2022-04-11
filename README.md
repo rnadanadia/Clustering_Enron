@@ -50,3 +50,9 @@ Analize the Enron email dataset, this is a set of :
 - ...
 
 
+## Technologies
+
+- Programming Language: Pyhton
+- IDE: VS Code
+- Presentation: Jupyter Notebook
+- Communication: Discord

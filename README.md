@@ -54,7 +54,7 @@ Analize the Enron email dataset, this is a set of :
     ***Tasks***
     |           Nadia           |           Anjali           |           Kivanc           |           Tim           |
     |---------------------------|----------------------------|----------------------------|-------------------------|
-    |   Cleaning the dataset    |  Cleaning the dataset      |  Cleaning the dataset      |  Cleaning the dataset   |
+    |   Cleaning the dataset    |  Cleaning the dataset      |  Cleaning the dataset      |  Cleaning the dataset, explore tf–idf  |
     |       |        |        |     |
     |       |        |        |     |
 #### - Wednesday

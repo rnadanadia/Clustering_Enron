@@ -42,9 +42,10 @@ Analize the Enron email dataset, this is a set of :
 - [X] Brainstorm for ideas and approach at12h05
 
     ***Tasks***
-    | Nadia | Anjali | Kivanc | Tim |
-    |-------|--------|--------|-----|
-    |       |        |        |     |
+    
+    |          Nadia          |        Anjali          |         Kivanc          |          Tim           |
+    |-------------------------|------------------------|-------------------------|------------------------|
+    |    Make dataset in csv  |    Make dataset in csv | Make dataset in csv     |   Make dataset in csv  |
     |       |        |        |     |
     |       |        |        |     |
 

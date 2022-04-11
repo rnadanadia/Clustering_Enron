@@ -24,21 +24,22 @@ Analize the Enron email dataset, this is a set of :
 ---
 
 ## Project Roadmap (Backlog):
-- Download data -> Done
-- Create Github Repo -> Done
-- First look at data -> Done
-- Add iterature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
-- Data cleaning from half of million emails. 
-- Decide on what algorithm to use: Kmeans or Doc2Vec look like good candidates
-- user interface
+
+[X] Download data
+[X] Create Github Repo
+[X] First look at data
+[] Add iterature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
+[] Data cleaning from half of million emails. 
+[] Decide on what algorithm to use: Kmeans or Doc2Vec look like good candidates
+[] user interface
 
 ## Daily sprint items:
 
 #### - Monday
-- Download data -> Done
-- Create Github Repo -> Done
-- First look at data -> Done
-- Brainstorm for ideas and approach at12h05
+[X] Download data
+[X] Create Github Repo
+[X] First look at data
+[X] Brainstorm for ideas and approach at12h05
 
     ***Tasks***
     | Nadia | Anjali | Kivanc | Tim |

@@ -47,7 +47,10 @@ Analize the Enron email dataset, this is a set of :
     |---------------------------------|--------------------------|-------------------------------------------------|----------------------------|
     |    Research in fraud business   |    Exploring Enron Case  | Analysing K-means Clustering and vectorization  |   Creating dataset in csv  |
    
-
+ ***Challenge for today***
+   1. Which clustering method to use? --answer : topic modelling
+   2. What is the expectancy of the end result? --answer : the frequency of email exchange from person/s to another and data visualization of topic modelling
+   
 #### - Tuesday
 - Cleaning the data and make clustering
 

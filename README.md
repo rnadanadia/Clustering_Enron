@@ -1,1 +1,32 @@
 # Clustering_Enron
+
+## Description:
+
+Analize the Enron email dataset, this is a set of :
+- 500 000 messages
+- 150 users, mostly senior management of Enron
+- Organized into mailbox folders
+- 2.5 GB uncompressed
+- link: https://www.cs.cmu.edu/~enron/
+---
+## Deliverables:
+
+ Facilitate the exploration of the dataset by:
+-  Organising it by topic (clustering, topic modeling)
+- Without being overwhelming (small number of clusters)
+- Remaining as relevant as possible
+- In practice, the clustering may need to be hierarchical:
+- Start fuzzy and specify more and more
+- Build a tool as user friendly and demonstrable as possible:
+- (deployed) web interface > command line > notebook (still good though)
+- 10 minutes demo / per team on Friday @ 14.00
+- Everybody will present
+---
+## Roadmap:
+- Download data -> Done
+- Create Github Repo -> Done
+- First look at data -> Done
+- Data cleaning
+- Decide on what algorithm to use: Kmeans or Doc2Vec look like good candidates
+- user interface
+

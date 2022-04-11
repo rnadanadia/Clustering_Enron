@@ -40,14 +40,49 @@ Analize the Enron email dataset, this is a set of :
 - First look at data -> Done
 - Brainstorm for ideas and approach at12h05
 
+    ***Tasks***
+    | Nadia | Anjali | Kivanc | Tim |
+    |-------|--------|--------|-----|
+    |       |        |        |     |
+    |       |        |        |     |
+    |       |        |        |     |
+
 #### - Tuesday
 - ...
+
+    ***Tasks***
+    | Nadia | Anjali | Kivanc | Tim |
+    |-------|--------|--------|-----|
+    |       |        |        |     |
+    |       |        |        |     |
+    |       |        |        |     |
 #### - Wednesday
 - ...
+
+    ***Tasks***
+    | Nadia | Anjali | Kivanc | Tim |
+    |-------|--------|--------|-----|
+    |       |        |        |     |
+    |       |        |        |     |
+    |       |        |        |     |
 #### - Thursday
 - ...
+
+    ***Tasks***
+    | Nadia | Anjali | Kivanc | Tim |
+    |-------|--------|--------|-----|
+    |       |        |        |     |
+    |       |        |        |     |
+    |       |        |        |     |
 #### - Friday
 - ...
+
+    ***Tasks***
+    | Nadia | Anjali | Kivanc | Tim |
+    |-------|--------|--------|-----|
+    |       |        |        |     |
+    |       |        |        |     |
+    |       |        |        |     |
 
 
 ## Technologies

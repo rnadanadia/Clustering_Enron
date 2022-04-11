@@ -43,11 +43,10 @@ Analize the Enron email dataset, this is a set of :
 
     ***Tasks***
     
-    |          Nadia          |        Anjali          |         Kivanc          |          Tim           |
-    |-------------------------|------------------------|-------------------------|------------------------|
-    |    Make dataset in csv  |    Make dataset in csv | Make dataset in csv     |   Make dataset in csv  |
-    |       |        |        |     |
-    |       |        |        |     |
+    |          Nadia            |        Anjali            |         Kivanc                                  |          Tim               |
+    |---------------------------|--------------------------|-------------------------------------------------|----------------------------|
+    |    Exploring Enron Case   |    Exploring Enron Case  | Analysing K-means Clustering and vectorization  |   Creating dataset in csv  |
+   
 
 #### - Tuesday
 - ...

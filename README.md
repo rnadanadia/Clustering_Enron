@@ -49,7 +49,7 @@ Analize the Enron email dataset, this is a set of :
    
 
 #### - Tuesday
-- ...
+- Cleaning the data and make clustering
 
     ***Tasks***
     | Nadia | Anjali | Kivanc | Tim |

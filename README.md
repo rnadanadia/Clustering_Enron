@@ -28,7 +28,7 @@ Analize the Enron email dataset, this is a set of :
 - [X] Download data
 - [X] Create Github Repo
 - [X] First look at data
-- [ ] Add iterature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
+- [ ] Add literature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
 - [ ] Data cleaning from half of million emails. 
 - [ ] Decide on what algorithm to use: Kmeans or Doc2Vec look like good candidates
 - [ ] user interface
@@ -43,9 +43,9 @@ Analize the Enron email dataset, this is a set of :
 
     ***Tasks***
     
-    |          Nadia            |        Anjali            |         Kivanc                                  |          Tim               |
-    |---------------------------|--------------------------|-------------------------------------------------|----------------------------|
-    |    Exploring Enron Case   |    Exploring Enron Case  | Analysing K-means Clustering and vectorization  |   Creating dataset in csv  |
+    |          Nadia                  |        Anjali            |         Kivanc                                  |          Tim               |
+    |---------------------------------|--------------------------|-------------------------------------------------|----------------------------|
+    |    Research in fraud business   |    Exploring Enron Case  | Analysing K-means Clustering and vectorization  |   Creating dataset in csv  |
    
 
 #### - Tuesday

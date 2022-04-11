@@ -52,9 +52,9 @@ Analize the Enron email dataset, this is a set of :
 - Cleaning the data and make clustering
 
     ***Tasks***
-    | Nadia | Anjali | Kivanc | Tim |
-    |-------|--------|--------|-----|
-    |       |        |        |     |
+    |           Nadia           |           Anjali           |           Kivanc           |           Tim           |
+    |---------------------------|----------------------------|----------------------------|-------------------------|
+    |   Cleaning the dataset    |  Cleaning the dataset      |  Cleaning the dataset      |  Cleaning the dataset   |
     |       |        |        |     |
     |       |        |        |     |
 #### - Wednesday

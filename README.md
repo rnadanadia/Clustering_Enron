@@ -41,7 +41,7 @@ Analize the Enron email dataset, this is a set of :
 - [X] First look at data
 - [X] Brainstorm for ideas and approach at12h05
 
-    ***Tasks***
+    ***Tasks for today***
     
     |          Nadia                  |        Anjali            |         Kivanc                                  |          Tim               |
     |---------------------------------|--------------------------|-------------------------------------------------|----------------------------|

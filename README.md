@@ -55,8 +55,8 @@ Analize the Enron email dataset, this is a set of :
     - [X] Nadia : Research in Clustering and Topic Modelling
    
     ***Challenge for today***
-    1. Which clustering method to use? --answer : topic modelling
-    2. What is the expectancy of the end result? --answer :  data visualization of topic modelling
+    1. Which clustering method to use? --answer : topic modelling anf K- means 
+    2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means 
    
 #### - Tuesday
 - [X] Brainstorming at 09.00 and 12.00

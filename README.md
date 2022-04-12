@@ -79,7 +79,14 @@ Analize the Enron email dataset, this is a set of :
    - Kivanc : To implemente time and understanding clustering.
    - Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error).
    - Nadia : Data visualization in LDA is empty, might caused by the data process.
-    
+   
+   ***Next day goal **
+     
+   - [X] Tim : 
+   - [X] Kivanc : 
+   - [X] Anjali : solving visualization issue, taking out insights from that (improvement in data processing if reauired), find optimal no. of topics 
+   - [X] Nadia : 
+   
 ### 3. Wednesday
    ***General***
    - [ ] Brainstorming at 09.00 and 12.00
@@ -88,7 +95,7 @@ Analize the Enron email dataset, this is a set of :
    ***Jobdesk***
    - [X] Tim : 
    - [X] Kivanc : 
-   - [X] Anjali : solving visualization issue, taking out insights from that (improvement in data processing if reauired), find optimal no. of topics 
+   - [X] Anjali : 
    - [X] Nadia : 
    
      ***Challenge for today***

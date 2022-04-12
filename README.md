@@ -2,9 +2,9 @@
 
 
 ## Team:
-- @Tim Strauven
-- @ Kivanc Gunduz
-- @ Anjali Tiwari
+@ Tim Strauven
+@ Kivanc Gunduz
+@ Anjali Tiwari
 
 ## Description:
 

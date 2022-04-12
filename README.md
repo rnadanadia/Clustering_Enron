@@ -1,5 +1,11 @@
 # Clustering_Enron
 
+
+## Team:
+- @Tim Strauven
+- @ Kivanc Gunduz
+- @ Anjali Tiwari
+
 ## Description:
 
 Analize the Enron email dataset, this is a set of :

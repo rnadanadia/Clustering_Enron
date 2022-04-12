@@ -73,8 +73,8 @@ Analize the Enron email dataset, this is a set of :
     
 
 #### - Thursday
-- [] Brainstorming at 09.00 and 12.00
-- [] Data visualization
+- [ ] Brainstorming at 09.00 and 12.00
+- [ ] Data visualization
 
     ***Jobdesk***
     - [X] Tim : 
@@ -86,8 +86,8 @@ Analize the Enron email dataset, this is a set of :
     
     
 #### - Friday
-- [] Brainstorming at 09.00 and 12.00
-- [] 
+- [ ] Brainstorming at 09.00 and 12.00
+- [ ] 
 
     ***Jobdesk***
     - [X] Tim : 

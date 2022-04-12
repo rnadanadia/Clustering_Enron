@@ -70,7 +70,7 @@ Analize the Enron email dataset, this is a set of :
    ***Jobdesk***
    - [X] Tim : Literature review and applying Clustering method in csv file
    - [X] Kivanc : Literature review and applying Clustering method in csv file
-   - [X] Anjali : Providing a clear stepstone to reach the goal and data cleaning
+   - [X] Anjali : Providing a clear stepstone to reach the goal and data cleaning, topic modelling (preprocessing, model application and evaluation)
    - [X] Nadia : Data Cleaning and visualization
    - [X] In the afternoon all member is working on data visualization based on Kmeans and LDA models. 
    
@@ -88,7 +88,7 @@ Analize the Enron email dataset, this is a set of :
    ***Jobdesk***
    - [X] Tim : 
    - [X] Kivanc : 
-   - [X] Anjali : 
+   - [X] Anjali : solving visualization issue, taking out insights from that (improvement in data processing if reauired), find optimal no. of topics 
    - [X] Nadia : 
    
      ***Challenge for today***

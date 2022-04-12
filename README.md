@@ -45,12 +45,12 @@ Analize the Enron email dataset, this is a set of :
 ## Daily sprint items:
 
 #### - Monday
-   ***Generalk***
+   ***General***
    - [X] Download data
    - [X] Create Github Repo
    - [X] First look at data
    - [X] Brainstorm for ideas and approach at12h05
-   - 
+   
    ***Jobdesk***
    - [X] Tim : Creating dataset in CSV 
    - [X] Kivanc : Analysing K-means Clustering and vectorization
@@ -62,59 +62,62 @@ Analize the Enron email dataset, this is a set of :
    2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means 
    
 #### - Tuesday
-- [X] Brainstorming at 09.00 and 12.00
-- [X] Data cleaning
-- [X] Literature review in Clustering method
-
-
-     ***Jobdesk***
-     - [X] Tim : Literature review and applying Clustering method in csv file
-     - [X] Kivanc : Literature review and applying Clustering method in csv file
-     - [X] Anjali : Providing a clear stepstone to reach the goal and data cleaning
-     - [X] Nadia : Data Cleaning and manage Github
+   ***General***
+   - [X] Brainstorming at 09.00 and 12.00
+   - [X] Data cleaning
+   - [X] Literature review in Clustering method
    
-     ***Challenge for today***
-    - Tim :  To create a first cluster, using Kmeans and plotting and understanding clustering process. 
-    - Kivanc :To implemente time and understanding clustering
-    - Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error) .
-    - Nadia : Data visualization in LDA is empty, might caused by the data process
+   ***Jobdesk***
+   - [X] Tim : Literature review and applying Clustering method in csv file
+   - [X] Kivanc : Literature review and applying Clustering method in csv file
+   - [X] Anjali : Providing a clear stepstone to reach the goal and data cleaning
+   - [X] Nadia : Data Cleaning and visualization
+   
+   ***Challenge for today***
+   - Tim :  To create a first cluster, using Kmeans and plotting and understanding clustering process. 
+   - Kivanc :To implemente time and understanding clustering
+   - Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error) .
+   - Nadia : Data visualization in LDA is empty, might caused by the data process
     
 #### - Wednesday
-- [ ] Brainstorming at 09.00 and 12.00
-- [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
+   ***General***
+   - [ ] Brainstorming at 09.00 and 12.00
+   - [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
 
-     ***Jobdesk***
-     - [X] Tim : 
-     - [X] Kivanc : 
-     - [X] Anjali : 
-     - [X] Nadia : 
+   ***Jobdesk***
+   - [X] Tim : 
+   - [X] Kivanc : 
+   - [X] Anjali : 
+   - [X] Nadia : 
    
      ***Challenge for today***
 
 #### - Thursday
-- [ ] Brainstorming at 09.00 and 12.00
-- [ ] Deadline : User interface 
+   ***General***
+   - [ ] Brainstorming at 09.00 and 12.00
+   - [ ] Deadline : User interface 
 
-     ***Jobdesk***
-     - [X] Tim : 
-     - [X] Kivanc : 
-     - [X] Anjali : 
-     - [X] Nadia : 
+   ***Jobdesk***
+   - [X] Tim : 
+   - [X] Kivanc :
+   - [X] Anjali : 
+   - [X] Nadia : 
    
-     ***Challenge for today***
+   ***Challenge for today***
     
     
 #### - Friday
-- [ ] Brainstorming at 09.00 and 12.00
-- [ ] Deadline : Give presentation 
+   ***General***
+   - [ ] Brainstorming at 09.00 and 12.00
+   - [ ] Deadline : Give presentation 
 
-     ***Jobdesk***
-     - [X] Tim : 
-     - [X] Kivanc : 
-     - [X] Anjali : 
-     - [X] Nadia : 
+   ***Jobdesk***
+   - [X] Tim : 
+   - [X] Kivanc : 
+   - [X] Anjali : 
+   - [X] Nadia : 
    
-     ***Challenge for today***
+   ***Challenge for today***
     
     
 ## Technologies

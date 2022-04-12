@@ -40,6 +40,7 @@ Analize the Enron email dataset, this is a set of :
 - [ ] Decide on what algorithm to use: Kmeans or LDA (topic modeling) look like good candidates
 - [ ] user interface
 
+ - https://github.com/rnadanadia/Clustering_Enron/wiki 
 ## Daily sprint items:
 
 #### - Monday

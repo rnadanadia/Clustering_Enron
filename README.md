@@ -44,7 +44,7 @@ Analize the Enron email dataset, this is a set of :
  - https://github.com/rnadanadia/Clustering_Enron/wiki 
 ## Daily sprint items:
 
-### Monday
+### 1. Monday
    ***General***
    - [X] Download data
    - [X] Create Github Repo
@@ -61,7 +61,7 @@ Analize the Enron email dataset, this is a set of :
    1. Which clustering method to use? --answer : topic modelling and K- means.
    2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means.
    
-### Tuesday
+### 2. Tuesday
    ***General***
    - [X] Brainstorming at 09.00 and 12.00
    - [X] Data cleaning
@@ -79,7 +79,7 @@ Analize the Enron email dataset, this is a set of :
    3. Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error).
    4. Nadia : Data visualization in LDA is empty, might caused by the data process.
     
-### Wednesday
+### 3. Wednesday
    ***General***
    - [ ] Brainstorming at 09.00 and 12.00
    - [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
@@ -92,7 +92,7 @@ Analize the Enron email dataset, this is a set of :
    
      ***Challenge for today***
 
-### Thursday
+### 4. Thursday
    ***General***
    - [ ] Brainstorming at 09.00 and 12.00
    - [ ] Deadline : User interface 
@@ -106,7 +106,7 @@ Analize the Enron email dataset, this is a set of :
    ***Challenge for today***
     
     
-### Friday
+### 5. Friday
    ***General***
    - [ ] Brainstorming at 09.00 and 12.00
    - [ ] Deadline : Give presentation 

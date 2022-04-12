@@ -36,7 +36,8 @@ Analize the Enron email dataset, this is a set of :
 - [X] First look at data
 - [ ] Add literature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
 - [ ] Data cleaning from half of million emails. 
-- [ ] Decide on what algorithm to use: Kmeans or Doc2Vec look like good candidates
+- [ ] Data preprocessing 
+- [ ] Decide on what algorithm to use: Kmeans or LDA (topic modeling) look like good candidates
 - [ ] user interface
 
 ## Daily sprint items:
@@ -71,10 +72,22 @@ Analize the Enron email dataset, this is a set of :
    
     ***Challenge for today***
     
+    
+#### - Wednesday
+- [ ] Brainstorming at 09.00 and 12.00
+- [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
+
+    ***Jobdesk***
+    - [X] Tim : 
+    - [X] Kivanc : 
+    - [X] Anjali : 
+    - [X] Nadia : 
+   
+    ***Challenge for today***
 
 #### - Thursday
 - [ ] Brainstorming at 09.00 and 12.00
-- [ ] Data visualization
+- [ ] Deadline : User interface 
 
     ***Jobdesk***
     - [X] Tim : 
@@ -87,7 +100,7 @@ Analize the Enron email dataset, this is a set of :
     
 #### - Friday
 - [ ] Brainstorming at 09.00 and 12.00
-- [ ] 
+- [ ] Deadline : Give presentation 
 
     ***Jobdesk***
     - [X] Tim : 

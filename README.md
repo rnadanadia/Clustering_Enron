@@ -50,15 +50,15 @@ Analize the Enron email dataset, this is a set of :
 - [X] First look at data
 - [X] Brainstorm for ideas and approach at12h05
 
-      ***Jobdesk***
-      - [X] Tim : Creating dataset in CSV 
-      - [X] Kivanc : Analysing K-means Clustering and vectorization
-      - [X] Anjali : Exploring Enron Case and the structure of Topic Modelling 
-      - [X] Nadia : Research in Clustering and Topic Modelling
+     ***Jobdesk***
+     - [X] Tim : Creating dataset in CSV 
+     - [X] Kivanc : Analysing K-means Clustering and vectorization
+     - [X] Anjali : Exploring Enron Case and the structure of Topic Modelling 
+     - [X] Nadia : Research in Clustering and Topic Modelling
    
-      ***Challenge for today***
-      1. Which clustering method to use? --answer : topic modelling and K- means 
-      2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means 
+     ***Challenge for today***
+     1. Which clustering method to use? --answer : topic modelling and K- means 
+     2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means 
    
 #### - Tuesday
 - [X] Brainstorming at 09.00 and 12.00
@@ -66,51 +66,51 @@ Analize the Enron email dataset, this is a set of :
 - [X] Literature review in Clustering method
 
 
-    ***Jobdesk***
-    - [X] Tim : Literature review in Clustering method
-    - [X] Kivanc : Literature review in Clustering method
-    - [X] Anjali : Providing a clear stepstone to reach the goal and data cleaning
-    - [X] Nadia : Data Cleaning and manage Github
+     ***Jobdesk***
+     - [X] Tim : Literature review in Clustering method
+     - [X] Kivanc : Literature review in Clustering method
+     - [X] Anjali : Providing a clear stepstone to reach the goal and data cleaning
+     - [X] Nadia : Data Cleaning and manage Github
    
-    ***Challenge for today***
+     ***Challenge for today***
     
     
 #### - Wednesday
 - [ ] Brainstorming at 09.00 and 12.00
 - [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
 
-    ***Jobdesk***
-    - [X] Tim : 
-    - [X] Kivanc : 
-    - [X] Anjali : 
-    - [X] Nadia : 
+     ***Jobdesk***
+     - [X] Tim : 
+     - [X] Kivanc : 
+     - [X] Anjali : 
+     - [X] Nadia : 
    
-    ***Challenge for today***
+     ***Challenge for today***
 
 #### - Thursday
 - [ ] Brainstorming at 09.00 and 12.00
 - [ ] Deadline : User interface 
 
-    ***Jobdesk***
-    - [X] Tim : 
-    - [X] Kivanc : 
-    - [X] Anjali : 
-    - [X] Nadia : 
+     ***Jobdesk***
+     - [X] Tim : 
+     - [X] Kivanc : 
+     - [X] Anjali : 
+     - [X] Nadia : 
    
-    ***Challenge for today***
+     ***Challenge for today***
     
     
 #### - Friday
 - [ ] Brainstorming at 09.00 and 12.00
 - [ ] Deadline : Give presentation 
 
-    ***Jobdesk***
-    - [X] Tim : 
-    - [X] Kivanc : 
-    - [X] Anjali : 
-    - [X] Nadia : 
+     ***Jobdesk***
+     - [X] Tim : 
+     - [X] Kivanc : 
+     - [X] Anjali : 
+     - [X] Nadia : 
    
-    ***Challenge for today***
+     ***Challenge for today***
     
     
 ## Technologies

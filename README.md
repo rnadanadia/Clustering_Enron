@@ -93,7 +93,7 @@ Analize the Enron email dataset, this is a set of :
    - [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
 
    ***Jobdesk***
-   - [X] Tim : 
+   - [X] Tim : get AgglomerativeClustering to work for the whole dataset
    - [X] Kivanc : 
    - [X] Anjali : 
    - [X] Nadia : 

@@ -75,8 +75,8 @@ Analize the Enron email dataset, this is a set of :
    - [X] In the afternoon all member is working on data visualization based on Kmeans and LDA models. 
    
    ***Challenge for today***
-   - Tim :  To create a first cluster, using Kmeans and plotting and understanding clustering process. 
-   - Kivanc :To implemente time and understanding clustering.
+   - Tim : To create a first cluster, using Kmeans and plotting and to understand clustering process. 
+   - Kivanc : To implemente time and understanding clustering.
    - Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error).
    - Nadia : Data visualization in LDA is empty, might caused by the data process.
     

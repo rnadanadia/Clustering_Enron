@@ -5,6 +5,7 @@
 - Tim Strauven
 - Kivanc Gunduz
 - Anjali Tiwari
+- Rosyidah Nadia
 
 ## Description:
 
@@ -49,15 +50,15 @@ Analize the Enron email dataset, this is a set of :
 - [X] First look at data
 - [X] Brainstorm for ideas and approach at12h05
 
-    ***Jobdesk***
-    - [X] Tim : Creating dataset in CSV 
-    - [X] Kivanc : Analysing K-means Clustering and vectorization
-    - [X] Anjali : Exploring Enron Case and the structure of Topic Modelling 
-    - [X] Nadia : Research in Clustering and Topic Modelling
+      ***Jobdesk***
+      - [X] Tim : Creating dataset in CSV 
+      - [X] Kivanc : Analysing K-means Clustering and vectorization
+      - [X] Anjali : Exploring Enron Case and the structure of Topic Modelling 
+      - [X] Nadia : Research in Clustering and Topic Modelling
    
-    ***Challenge for today***
-    1. Which clustering method to use? --answer : topic modelling anf K- means 
-    2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means 
+      ***Challenge for today***
+      1. Which clustering method to use? --answer : topic modelling and K- means 
+      2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means 
    
 #### - Tuesday
 - [X] Brainstorming at 09.00 and 12.00

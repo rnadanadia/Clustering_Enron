@@ -44,7 +44,7 @@ Analize the Enron email dataset, this is a set of :
  - https://github.com/rnadanadia/Clustering_Enron/wiki 
 ## Daily sprint items:
 
-#### - Monday
+### - Monday
    ***General***
    - [X] Download data
    - [X] Create Github Repo

@@ -58,8 +58,8 @@ Analize the Enron email dataset, this is a set of :
    - [X] Nadia : Research in Clustering and Topic Modelling
    - 
    ***Challenge for today***
-   1. Which clustering method to use? --answer : topic modelling and K- means.
-   2. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means.
+   a. Which clustering method to use? --answer : topic modelling and K- means.
+   b. What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means.
    
 ### 2. Tuesday
    ***General***
@@ -74,10 +74,10 @@ Analize the Enron email dataset, this is a set of :
    - [X] Nadia : Data Cleaning and visualization
    
    ***Challenge for today***
-   1. Tim :  To create a first cluster, using Kmeans and plotting and understanding clustering process. 
-   2. Kivanc :To implemente time and understanding clustering.
-   3. Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error).
-   4. Nadia : Data visualization in LDA is empty, might caused by the data process.
+   a. Tim :  To create a first cluster, using Kmeans and plotting and understanding clustering process. 
+   b. Kivanc :To implemente time and understanding clustering.
+   c. Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error).
+   d. Nadia : Data visualization in LDA is empty, might caused by the data process.
     
 ### 3. Wednesday
    ***General***

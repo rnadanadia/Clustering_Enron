@@ -28,7 +28,7 @@ Analize the Enron email dataset, this is a set of :
 - [X] Download data
 - [X] Create Github Repo
 - [X] First look at data
-- [ ] Add iterature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
+- [ ] Add literature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
 - [ ] Data cleaning from half of million emails. 
 - [ ] Decide on what algorithm to use: Kmeans or Doc2Vec look like good candidates
 - [ ] user interface
@@ -41,20 +41,24 @@ Analize the Enron email dataset, this is a set of :
 - [X] First look at data
 - [X] Brainstorm for ideas and approach at12h05
 
-    ***Tasks***
-    | Nadia | Anjali | Kivanc | Tim |
-    |-------|--------|--------|-----|
-    |       |        |        |     |
-    |       |        |        |     |
-    |       |        |        |     |
-
+    ***Tasks for today***
+    
+    |          Nadia                  |        Anjali            |         Kivanc                                  |          Tim               |
+    |---------------------------------|--------------------------|-------------------------------------------------|----------------------------|
+    |    Research in fraud business   |    Exploring Enron Case  | Analysing K-means Clustering and vectorization  |   Creating dataset in csv  |
+   
+    ***Challenge for today***
+    1. Which clustering method to use? --answer : topic modelling
+    2. What is the expectancy of the end result? --answer : the frequency of email exchange from person/s to another and data visualization of topic 
+      modelling
+   
 #### - Tuesday
-- ...
+- Cleaning the data and make clustering
 
     ***Tasks***
-    | Nadia | Anjali | Kivanc | Tim |
-    |-------|--------|--------|-----|
-    |       |        |        |     |
+    |           Nadia           |           Anjali           |           Kivanc           |           Tim           |
+    |---------------------------|----------------------------|----------------------------|-------------------------|
+    |   Cleaning the dataset    |  Cleaning the dataset      |  Cleaning the dataset      |  Cleaning the dataset, explore tf–idf  |
     |       |        |        |     |
     |       |        |        |     |
 #### - Wednesday

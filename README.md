@@ -81,7 +81,8 @@ Analize the Enron email dataset, this is a set of :
    - Nadia : Data visualization in LDA is empty, might caused by the data process.
    
    ***Next day goal **
-     taking out insights from that (improvement in data processing if reauired) and compare insgihts of both models (how it is making sense)  and done with modelling part and start user interface (if possible) 
+   - taking out insights from that (improvement in data processing if required) and compare insights of both models (how it is making sense)  and done with modelling part and start user interface (if possible) 
+   
    - [X] Tim : taking out insights from that (improvement in data processing if reauired) .......
    - [X] Kivanc : taking out insights from that (improvement in data processing if reauired) .....
    - [X] Anjali : solving visualization issue, taking out insights from that (improvement in data processing if reauired), find optimal no. of topics 
@@ -89,14 +90,14 @@ Analize the Enron email dataset, this is a set of :
    
 ### 3. Wednesday
    ***General***
-   - [ ] Brainstorming at 09.00 and 12.00
+   - [X] Brainstorming at 09.00 and 12.00
    - [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
 
    ***Jobdesk***
    - [X] Tim : get AgglomerativeClustering to work for the whole dataset
    - [X] Kivanc : 
    - [X] Anjali : 
-   - [X] Nadia : 
+   - [X] Nadia : Better visualization of the data
    
      ***Challenge for today***
 

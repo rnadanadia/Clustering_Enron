@@ -28,7 +28,7 @@ class Preprocessing():
         mail_body = []
         mail_date = []
         errorlist = []
-     
+
         for dir, folders, filenames in os.walk("./data/maildir"):
             for filename in filenames:
                 print(filename)
@@ -70,7 +70,6 @@ class Preprocessing():
         mail_df.to_csv(".data/emails.csv", index=False, sep=";")
         print('Finished saving data to csv file...')
 
-
     def get_raw_text(self, emails):
         """
         A function to get raw text from emails.
@@ -95,7 +94,7 @@ class Preprocessing():
             if thislist[i] is not None:
                 thislist[i] = thislist[i].replace(';', ' ')
         return thislist
-    
+
     @staticmethod
     def create_sample_csv(sample_prcentage: float = 0.1):
         """
@@ -113,7 +112,4 @@ class Preprocessing():
 # preprocessing = Preprocessing()
 # preprocessing.all_data_to_csv()
 
-#Preprocessing.create_sample_csv()
-
-
-    
+# Preprocessing.create_sample_csv()

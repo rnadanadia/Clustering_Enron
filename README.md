@@ -1,5 +1,12 @@
 # Clustering_Enron
 
+
+## Team:
+- Tim Strauven
+- Kivanc Gunduz
+- Anjali Tiwari
+- Rosyidah Nadia
+
 ## Description:
 
 Analize the Enron email dataset, this is a set of :
@@ -30,66 +37,98 @@ Analize the Enron email dataset, this is a set of :
 - [X] First look at data
 - [ ] Add literature research in fraud business to provide a different perspective or an additional analysis of the current project. This can help identify gaps in the current knowledge and highlight future directions. 
 - [ ] Data cleaning from half of million emails. 
-- [ ] Decide on what algorithm to use: Kmeans or Doc2Vec look like good candidates
+- [ ] Data preprocessing 
+- [ ] Decide on what algorithm to use: Kmeans or LDA (topic modeling) look like good candidates
 - [ ] user interface
 
+ - https://github.com/rnadanadia/Clustering_Enron/wiki 
 ## Daily sprint items:
 
-#### - Monday
-- [X] Download data
-- [X] Create Github Repo
-- [X] First look at data
-- [X] Brainstorm for ideas and approach at12h05
+### 1. Monday
+   ***General***
+   - [X] Download data
+   - [X] Create Github Repo
+   - [X] First look at data
+   - [X] Brainstorm for ideas and approach at12h05
+   
+   ***Jobdesk***
+   - [X] Tim : Creating dataset in CSV 
+   - [X] Kivanc : Analysing K-means Clustering and vectorization
+   - [X] Anjali : Exploring Enron Case and the structure of Topic Modelling 
+   - [X] Nadia : Research in Clustering and Topic Modelling
+   
+   ***Challenge for today***
+   - Which clustering method to use? --answer : topic modelling and K- means.
+   - What is the expectancy of the end result? --answer :  data visualization of topic modelling and K-means.
+   
+### 2. Tuesday
+   ***General***
+   - [X] Brainstorming at 09.00 and 12.00
+   - [X] Data cleaning
+   - [X] Literature review in Clustering method
+   
+   ***Jobdesk***
+   - [X] Tim : Literature review and applying Clustering method in csv file
+   - [X] Kivanc : Literature review and applying Clustering method in csv file
+   - [X] Anjali : Providing a clear stepstone to reach the goal and data cleaning, topic modelling (preprocessing, model application and evaluation)
+   - [X] Nadia : Data Cleaning and visualization
+   - [X] In the afternoon all member is working on data visualization based on Kmeans and LDA models. 
+   
+   ***Challenge for today***
+   - Tim : To create a first cluster, using Kmeans and plotting and to understand clustering process. 
+   - Kivanc : To implemente time and understanding clustering.
+   - Anjali: Overall understand all steps of preprocessing for topic modelling but facing some issue in  visualizing  model (showing some error).
+   - Nadia : Data visualization in LDA is empty, might caused by the data process.
+   
+   ***Next day goal **
+   - taking out insights from that (improvement in data processing if required) and compare insights of both models (how it is making sense)  and done with modelling part and start user interface (if possible) 
+   
+   - [X] Tim : taking out insights from that (improvement in data processing if reauired) .......
+   - [X] Kivanc : taking out insights from that (improvement in data processing if reauired) .....
+   - [X] Anjali : solving visualization issue, taking out insights from that (improvement in data processing if reauired), find optimal no. of topics 
+   - [X] Nadia : taking out insights from that (improvement in data processing if reauired) ...... 
+   
+### 3. Wednesday
+   ***General***
+   - [X] Brainstorming at 09.00 and 12.00
+   - [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
 
-    ***Tasks for today***
+   ***Jobdesk***
+   - [X] Tim : get AgglomerativeClustering to work for the whole dataset
+   - [X] Kivanc : 
+   - [X] Anjali : 
+   - [X] Nadia : Better visualization of the data
+   
+     ***Challenge for today***
+
+### 4. Thursday
+   ***General***
+   - [ ] Brainstorming at 09.00 and 12.00
+   - [ ] Deadline : User interface 
+
+   ***Jobdesk***
+   - [X] Tim : 
+   - [X] Kivanc :
+   - [X] Anjali : 
+   - [X] Nadia : 
+   
+   ***Challenge for today***
     
-    |          Nadia                  |        Anjali            |         Kivanc                                  |          Tim               |
-    |---------------------------------|--------------------------|-------------------------------------------------|----------------------------|
-    |    Research in fraud business   |    Exploring Enron Case  | Analysing K-means Clustering and vectorization  |   Creating dataset in csv  |
+    
+### 5. Friday
+   ***General***
+   - [ ] Brainstorming at 09.00 and 12.00
+   - [ ] Deadline : Give presentation 
+
+   ***Jobdesk***
+   - [X] Tim : 
+   - [X] Kivanc : 
+   - [X] Anjali : 
+   - [X] Nadia : 
    
-    ***Challenge for today***
-    1. Which clustering method to use? --answer : topic modelling
-    2. What is the expectancy of the end result? --answer : the frequency of email exchange from person/s to another and data visualization of topic 
-      modelling
-   
-#### - Tuesday
-- Cleaning the data and make clustering
-
-    ***Tasks***
-    |           Nadia           |           Anjali           |           Kivanc           |           Tim           |
-    |---------------------------|----------------------------|----------------------------|-------------------------|
-    |   Cleaning the dataset    |  Cleaning the dataset      |  Cleaning the dataset      |  Cleaning the dataset, explore tf–idf  |
-    |       |        |        |     |
-    |       |        |        |     |
-#### - Wednesday
-- ...
-
-    ***Tasks***
-    | Nadia | Anjali | Kivanc | Tim |
-    |-------|--------|--------|-----|
-    |       |        |        |     |
-    |       |        |        |     |
-    |       |        |        |     |
-#### - Thursday
-- ...
-
-    ***Tasks***
-    | Nadia | Anjali | Kivanc | Tim |
-    |-------|--------|--------|-----|
-    |       |        |        |     |
-    |       |        |        |     |
-    |       |        |        |     |
-#### - Friday
-- ...
-
-    ***Tasks***
-    | Nadia | Anjali | Kivanc | Tim |
-    |-------|--------|--------|-----|
-    |       |        |        |     |
-    |       |        |        |     |
-    |       |        |        |     |
-
-
+   ***Challenge for today***
+    
+    
 ## Technologies
 
 - Programming Language: Pyhton

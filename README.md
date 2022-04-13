@@ -94,14 +94,21 @@ Analize the Enron email dataset, this is a set of :
    - [ ] Deadline : 2 model run  and comparing/ analysing both models outcome based on visulaization (improve model if required)
 
    ***Jobdesk***
-   - [X] Tim : get AgglomerativeClustering to work for the whole dataset
-   - [X] Kivanc : 
-   - [X] Anjali : 
-   - [X] Nadia : Better visualization of the data
+   - [X] Tim : Get AgglomerativeClustering to work for the whole dataset and review the LDA codes to improve the code
+   - [X] Kivanc : Implemented the KMeans Clustering for whole dataset
+   - [X] Anjali : Topic modelling visualisation and start the user interface
+   - [X] Nadia : Better visualisation of the data
    
      ***Challenge for today***
-
+   - Tim : Hyperparameter tuning of LDA model
+   - Kivanc : Mananging whole dataset
+   - Anjali : Challenge in model output 
+   - Nadia : Got some error for visualisation
+   - 
 ### 4. Thursday
+ ***Next day goal **
+ - Preparing the user interface 
+ 
    ***General***
    - [ ] Brainstorming at 09.00 and 12.00
    - [ ] Deadline : User interface 

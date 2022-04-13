@@ -81,7 +81,7 @@ Analize the Enron email dataset, this is a set of :
    - Nadia : Data visualization in LDA is empty, might caused by the data process.
    
    ***Next day goal **
-   - taking out insights from that (improvement in data processing if required) and compare insights of both models (how it is making sense)  and done with modelling part and start user interface (if possible) 
+   - Taking out insights from that (improvement in data processing if required) and compare insights of both models (how it is making sense)  and done with modelling part and start user interface (if possible) 
    
    - [X] Tim : taking out insights from that (improvement in data processing if reauired) .......
    - [X] Kivanc : taking out insights from that (improvement in data processing if reauired) .....
@@ -106,8 +106,8 @@ Analize the Enron email dataset, this is a set of :
    - Nadia : Got some error for visualisation
    - 
 ### 4. Thursday
- ***Next day goal **
- - Preparing the user interface 
+   ***Next day goal **
+   - Preparing the user interface 
  
    ***General***
    - [ ] Brainstorming at 09.00 and 12.00

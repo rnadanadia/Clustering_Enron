@@ -97,14 +97,14 @@ Analize the Enron email dataset, this is a set of :
    - [X] Tim : Get AgglomerativeClustering to work for the whole dataset and review the LDA codes to improve the code
    - [X] Kivanc : Implemented the KMeans Clustering for whole dataset
    - [X] Anjali : Topic modelling visualisation and start the user interface
-   - [X] Nadia : Better visualisation of the data
+   - [X] Nadia : Better visualisation of the the first 10.000 rows of dataset 
    
      ***Challenge for today***
    - Tim : Hyperparameter tuning of LDA model
    - Kivanc : Mananging whole dataset
    - Anjali : Challenge in model output 
-   - Nadia : Got some error for visualisation
-   - 
+   - Nadia : Got some error for visualisation but solved with restarting Vscode
+   
 ### 4. Thursday
    ***Next day goal **
    - Preparing the user interface 
@@ -114,13 +114,18 @@ Analize the Enron email dataset, this is a set of :
    - [ ] Deadline : User interface 
 
    ***Jobdesk***
-   - [X] Tim : 
-   - [X] Kivanc :
-   - [X] Anjali : 
-   - [X] Nadia : 
+   - [X] Tim : Agglomerative Clustering to make a connection between tokenize words and email and user interface using Streamlit
+   - [X] Kivanc : User interface and LDA data visualization
+   - [X] Anjali : Data visualisation for 50,000 dataset and slide presentation.
+   - [X] Nadia : Working on bigger size of dataset and slide presentation. Compared to yesterday, the Topic Modelling's result is less interesting. In rough conclusion, smaller 
+                 dataset will give a better overview
    
    ***Challenge for today***
-    
+   - Tim : 
+   - Kivanc : 
+   - Anjali : 
+   - Nadia : Bigger dataset means longer time to proces, also had an introduction of Streamlit
+   
     
 ### 5. Friday
    ***General***

@@ -121,10 +121,7 @@ Analize the Enron email dataset, this is a set of :
                  dataset will give a better overview
    
    ***Challenge for today***
-   - Tim : 
-   - Kivanc : 
-   - Anjali : 
-   - Nadia : Bigger dataset means longer time to proces, also had an introduction of Streamlit
+   - Data visualization, bigger dataset means longer time to proces, and user interface preparation
    
     
 ### 5. Friday

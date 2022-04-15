@@ -129,7 +129,7 @@ Analize the Enron email dataset, this is a set of :
 ### 5. Friday
    ***General***
    - [X] Brainstorming at 09.00 and 12.00
-   - [X] Deadline : Give presentation 
+   - [X] Deadline : Presentation 
 
    ***Jobdesk***
    - [X] Tim : User Interface
@@ -138,7 +138,7 @@ Analize the Enron email dataset, this is a set of :
    - [X] Nadia : Powerpoint
    
    ***Challenge for today***
-    To deliver good and understandable content for audience
+   - To deliver good and understandable content for audience
     
 ## Technologies
 

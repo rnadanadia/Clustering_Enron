@@ -99,16 +99,16 @@ Analize the Enron email dataset, this is a set of :
    - [X] Anjali : Topic modelling visualisation and start the user interface
    - [X] Nadia : Better visualisation of the the first 10.000 rows of dataset 
    
-     ***Challenge for today***
+   ***Challenge for today***
    - Tim : Hyperparameter tuning of LDA model
    - Kivanc : Mananging whole dataset
    - Anjali : Challenge in model output 
    - Nadia : Got some error for visualisation but solved with restarting Vscode
    
-### 4. Thursday
    ***Next day goal **
-   - Preparing the user interface 
- 
+   - Preparing the powerpoint user interface 
+   
+### 4. Thursday
    ***General***
    - [ ] Brainstorming at 09.00 and 12.00
    - [ ] Deadline : User interface 
@@ -123,20 +123,22 @@ Analize the Enron email dataset, this is a set of :
    ***Challenge for today***
    - Data visualization, bigger dataset means longer time to proces, and user interface preparation
    
+   ***Next day goal **
+   - Preparing the user interface 
     
 ### 5. Friday
    ***General***
-   - [ ] Brainstorming at 09.00 and 12.00
-   - [ ] Deadline : Give presentation 
+   - [X] Brainstorming at 09.00 and 12.00
+   - [X] Deadline : Give presentation 
 
    ***Jobdesk***
-   - [X] Tim : 
-   - [X] Kivanc : 
-   - [X] Anjali : 
-   - [X] Nadia : 
+   - [X] Tim : User Interface
+   - [X] Kivanc : User Interface
+   - [X] Anjali : Powerpoint
+   - [X] Nadia : Powerpoint
    
    ***Challenge for today***
-    
+    To deliver good and understandable content for audience
     
 ## Technologies
 
